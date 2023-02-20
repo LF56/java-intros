@@ -7,3 +7,10 @@
 // >> Java > Python.
 // >> I spilled Java all over my paper.
 // >> My dog ate my Java.
+
+public class FirstProgram {
+    public static void main(String[] args) {
+        System.out.println(">>Printing is fun!");
+    }
+
+}
