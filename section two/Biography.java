@@ -10,7 +10,8 @@ public class Biography {
         int age = 22; 
         int hours = 6;
         char grade = 'A';
-
+        String six = "6";
+        
         // name (text)
         // age (whole number)
         // country (text)
