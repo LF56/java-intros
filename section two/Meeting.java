@@ -14,10 +14,10 @@ public class Meeting {
         int roundedShipping = (int)shipping; 
 
 
-        System.out.println("This month, we made " + roundedSales + " in sales");
-        System.out.println("Factoring in costs, we made " + roundedProfit + "in profit");
-        System.out.println("The refunds are at a low " + roundedRefund + " This is a good sign!");
-        System.out.println(" Shipping costs were high. We paid " + roundedShipping + " in shipping");
+        System.out.println("This month, we made $" + roundedSales + " in sales");
+        System.out.println("Factoring in costs, we made $" + roundedProfit + "in profit");
+        System.out.println("The refunds are at a low $" + roundedRefund + " This is a good sign!");
+        System.out.println(" Shipping costs were high. We paid $" + roundedShipping + " in shipping");
 
 
     }
