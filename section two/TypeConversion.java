@@ -9,8 +9,9 @@ public class TypeConversion {
         System.out.println("Each ant carried " + (purchasedBlocksOfCheese / ants) + " from the total cheese amount"); 
 
         double salary = 5423.94;
+        int roundedSalary = (int)salary;
         System.out.println("Mortgage Broker: What is your monthly salary in dollars?");
-        System.out.println("My monthly salary is: " + salary);
+        System.out.println("My monthly salary is: " + roundedSalary);
 
 
     }
